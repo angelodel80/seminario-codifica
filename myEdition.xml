@@ -6,7 +6,9 @@
     </teiHeader>
     <text>
         <body>
-                
+                <div type="chapter" n="1">
+                    <p>prima riga di trascrizione</p>
+                </div>
         </body>
     </text>
 </TEI>
